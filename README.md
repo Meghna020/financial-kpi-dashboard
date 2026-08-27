@@ -2,6 +2,10 @@
 
 A Power BI-ready FP&A dashboard project focused on budget performance, profitability, and management reporting.
 
+## Performance visualization
+
+![Monthly actual versus budget revenue](project-overview.svg)
+
 ## Dashboard pages
 
 1. **Executive Summary** — revenue, gross margin, EBITDA, and full-year outlook
@@ -32,4 +36,3 @@ The model follows a star schema and can be recreated in Power BI using the inclu
 The dashboard replaces fragmented monthly reporting with one consistent view of performance and enables finance leaders to identify unfavorable variances earlier.
 
 All data is synthetic.
-
