@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="560" viewBox="0 0 1000 560" role="img">
+<rect width="1000" height="560" rx="18" fill="#f8fafc"/>
+<text x="55" y="58" font-family="Arial,sans-serif" font-size="27" font-weight="700" fill="#0f172a">Monthly Revenue Performance</text>
+<text x="55" y="88" font-family="Arial,sans-serif" font-size="15" fill="#5b6575">Actual versus budget across reporting regions</text>
+<line x1="70" y1="455" x2="940" y2="455" stroke="#dbe3ec"/><text x="60" y="460" text-anchor="end" font-family="Arial,sans-serif" font-size="12" fill="#5b6575">$0K</text>
+<line x1="70" y1="380.0" x2="940" y2="380.0" stroke="#dbe3ec"/><text x="60" y="385.0" text-anchor="end" font-family="Arial,sans-serif" font-size="12" fill="#5b6575">$216K</text>
+<line x1="70" y1="305.0" x2="940" y2="305.0" stroke="#dbe3ec"/><text x="60" y="310.0" text-anchor="end" font-family="Arial,sans-serif" font-size="12" fill="#5b6575">$433K</text>
+<line x1="70" y1="230.0" x2="940" y2="230.0" stroke="#dbe3ec"/><text x="60" y="235.0" text-anchor="end" font-family="Arial,sans-serif" font-size="12" fill="#5b6575">$650K</text>
+<line x1="70" y1="155" x2="940" y2="155" stroke="#dbe3ec"/><text x="60" y="160" text-anchor="end" font-family="Arial,sans-serif" font-size="12" fill="#5b6575">$866K</text>
+<rect x="90.0" y="179.59584295612012" width="74.66666666666669" height="275.4041570438799" rx="4" fill="#0f766e"/>
+<rect x="170.66666666666669" y="177.86374133949192" width="74.66666666666669" height="277.1362586605081" rx="4" fill="#2563eb"/>
+<text x="164.66666666666669" y="480" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#172033">01</text>
+<rect x="356.6666666666667" y="164.0069284064665" width="74.66666666666669" height="290.9930715935335" rx="4" fill="#0f766e"/>
+<rect x="437.33333333333337" y="169.89607390300233" width="74.66666666666669" height="285.10392609699767" rx="4" fill="#2563eb"/>
+<text x="431.33333333333337" y="480" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#172033">02</text>
+<rect x="623.3333333333334" y="155.0" width="74.66666666666669" height="300.0" rx="4" fill="#0f766e"/>
+<rect x="704.0" y="158.81062355658202" width="74.66666666666669" height="296.189376443418" rx="4" fill="#2563eb"/>
+<text x="698.0" y="480" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#172033">03</text>
+<rect x="720" y="45" width="12" height="12" fill="#0f766e"/><text x="739" y="56" font-family="Arial,sans-serif" font-size="13" fill="#172033">Actual</text>
+<rect x="820" y="45" width="12" height="12" fill="#2563eb"/><text x="839" y="56" font-family="Arial,sans-serif" font-size="13" fill="#172033">Budget</text>
+<text x="945" y="535" text-anchor="end" font-family="Arial,sans-serif" font-size="12" fill="#5b6575">Synthetic portfolio data • Meghna Sarmah</text>
+</svg>
