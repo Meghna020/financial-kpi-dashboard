@@ -1,0 +1,20 @@
+Month,Department,Category,Account,Actual,Budget
+2026-01,North,Revenue,Product Revenue,420000,410000
+2026-01,North,COGS,Direct Costs,242000,237800
+2026-01,North,Operating Expense,Payroll,82000,80000
+2026-01,South,Revenue,Product Revenue,375000,390000
+2026-01,South,COGS,Direct Costs,221000,226200
+2026-01,South,Operating Expense,Payroll,76000,75000
+2026-02,North,Revenue,Product Revenue,438000,425000
+2026-02,North,COGS,Direct Costs,249000,246500
+2026-02,North,Operating Expense,Payroll,83000,81000
+2026-02,South,Revenue,Product Revenue,402000,398000
+2026-02,South,COGS,Direct Costs,231000,230840
+2026-02,South,Operating Expense,Payroll,77000,76000
+2026-03,North,Revenue,Product Revenue,451000,445000
+2026-03,North,COGS,Direct Costs,255000,255875
+2026-03,North,Operating Expense,Payroll,84000,82000
+2026-03,South,Revenue,Product Revenue,415000,410000
+2026-03,South,COGS,Direct Costs,237000,235750
+2026-03,South,Operating Expense,Payroll,78000,77000
+
